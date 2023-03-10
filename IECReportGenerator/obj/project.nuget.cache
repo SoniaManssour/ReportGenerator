@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2gK6tZ70Gv2X2XHP7oCrMHlOh40xVXh6qmDOTwnTL7SYFIAYGd0uTVKukvUnlLp2lyvaaFHNNLTKkFDu70rb0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SonMan\\source\\repos\\stare\\IECReportGenerator\\IECReportGenerator\\IECReportGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SonMan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
